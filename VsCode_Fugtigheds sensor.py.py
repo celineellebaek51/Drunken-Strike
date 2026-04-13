@@ -30,3 +30,8 @@ while True:
     print("Raw :", raw)
     print("wet: ", prct)
     time.sleep(1)
+
+if prct >20, prct:
+    print pumpe1
+elif prct <20,prct:
+    print pumpe2
